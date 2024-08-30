@@ -16,5 +16,11 @@
           Cars
         </a>
       </li>
+
+      <li>
+        <a href="<?php echo site_url('/blog') ?>">
+          Blog
+        </a>
+      </li>
     </ul>
   </header>

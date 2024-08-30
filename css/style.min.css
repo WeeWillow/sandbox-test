@@ -1,1 +1,1 @@
-header a{font-size:1.5rem;font-weight:bold;text-transform:uppercase;text-decoration:none;color:#000}ul li{list-style-type:none}img{height:400px;width:auto}section{margin:1rem}/*# sourceMappingURL=style.min.css.map */
+header{margin:0 1rem}header ul{padding:0px;display:flex;gap:1rem}header a{font-size:1.5rem;font-weight:bold;text-transform:uppercase;text-decoration:none;color:#000}header a:hover{color:blue}ul li{list-style-type:none}img{height:400px;width:auto}section{margin:1rem}/*# sourceMappingURL=style.min.css.map */
